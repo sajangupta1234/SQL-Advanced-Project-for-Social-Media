@@ -8,4 +8,4 @@ The Project is based on the Ig Clone datasets related to the Social Media and co
 ● Advanced User Profiling
 ● User Activity Assessment
 
-Here i have given the Ig clone dataset. Also Sql codes are provided in  MySql File and in PDF file also.
+Here i have uploaded the Ig clone dataset. Also Sql codes are provided in  MySql File and in PDF file also.
